@@ -1,0 +1,15 @@
+.form-container {
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); 
+  }
+.main{
+    background-color: gray;
+}
+.intrest{
+    background-color: rgb(46, 46, 46);
+}
+.h1{
+    color: rgb(66, 0, 0);
+}
